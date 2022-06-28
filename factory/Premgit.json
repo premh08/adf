@@ -1,0 +1,9 @@
+{
+	"name": "Premgit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2dc5023f-b32a-4450-9108-a289597e3bf7",
+		"tenantId": "777f7504-f9bd-4b8d-9c89-66eb725e92f5"
+	}
+}
